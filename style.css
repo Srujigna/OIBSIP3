@@ -1,0 +1,49 @@
+#CookVideo{
+    object-fit: cover;
+    position:absolute;
+    height: 100%;
+    width:100%;
+}
+.topnav{
+    display: inline;
+    position:fixed;
+    font-size: 35px;
+    float: right;
+    margin:2% 0 0 50%;
+}
+a{
+    padding:5px;
+    color:antiquewhite;
+    text-decoration: none;
+}
+a:hover{
+    background-color:coral;
+}
+h1{
+    position:fixed;
+    font-family: Inter;
+    font-size: 150px;
+    font-weight: 700;
+    line-height: 194px;
+    letter-spacing: 0em;
+    text-align: center;
+    color:transparent;
+    text-shadow:white;
+    -webkit-text-stroke: 2px rgb(53, 19, 19);
+    margin: 10% 20% 0 12%;
+    color:rgb(115, 154, 172);
+}
+button{
+    position:fixed;
+    margin:30% 20% 40% 35%;
+    font-size: 40px;
+    text-align: center;
+    background: transparent;
+    border-radius: 25px;
+    border:solid whitesmoke 2px;
+    color:cornsilk;
+    width:25%;
+}
+body{
+    background: rgba(0,0,0,0.5);
+}
